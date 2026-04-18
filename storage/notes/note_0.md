@@ -1,0 +1,1 @@
+Array refers to a collection of objects, generally used in computer programming and machine learning. It refers to a collection of objects that can be accessed using a single index or integer value. In this context, "array" means a collection of objects that can be accessed using indices starting at 0 (zero).
